@@ -3,7 +3,7 @@
 (setq user-full-name "Brian Blumberg"
       user-mail-address "blum@disroot.org"
 
-      doom-font (font-spec :family "Cousine Nerd Font" :size 14)
+      doom-font (font-spec :family "Iosevka Nerd Font" :size 14)
       doom-theme 'doom-material
 
       org-directory "~/org/"
