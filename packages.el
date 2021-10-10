@@ -1,4 +1,5 @@
 ;; -*- no-byte-compile: t; -*-
 ;;; $DOOMDIR/packages.el
 
-(package! glsl-mode)
+(package! smudge)
+(package! pkgbuild-mode)
